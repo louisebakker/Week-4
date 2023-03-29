@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Assignment2": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Louise\\Desktop\\Inf1C\\Programmeren\\Periode2\\Week4\\Assignment2\\woorden.txt"
+    }
+  }
+}
